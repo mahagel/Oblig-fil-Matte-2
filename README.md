@@ -1,7 +1,7 @@
 # Oblig-fil-Matte-2
 Nevralt nettverk helt fra bunn (C++)
 
-zip filen skal inneholde alt du trenger, for å kjøre i VScode
+zip filen skal inneholde alt du trenger, for å kjøre i VScode (Tror jeg)
 
 Dette er en veldig enkel modell av et nevralt nettverk, som tar inn et vilkårlig antall inputverdier, og gir ut et vilkårlig antall outputverdier. 
 Etter trening, skal nettverket ha lært hva som er forventet output fra en gitt input av seg selv, og deretter visualisere resultatet.
